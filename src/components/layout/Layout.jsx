@@ -1,6 +1,6 @@
 import React from 'react';
 import TopNavbar from '../topNavbar/TopNavbar';
-import SideBar from '../sideBar/sideBar';
+import SideBar from '../sideBar/SideBar';
 
 function Layout({ children }) {
     return (
